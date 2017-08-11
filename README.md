@@ -4,7 +4,7 @@ The Image Generator Visualizer (IGV) visualizes the different functions and para
 
 Data augmentation is a technique to increase the data set by randomly modifying the image (e.g. crop, shift). IGV gives an intuition about parameter impact and modification of the images. It tries out each function separately with different parameter values.
 
-IGV can be easy adopted to show data augmentation for a new dataset.
+IGV can be easy adopted to show data augmentation for a new dataset.<br>
 IGV can be easy configured to use different parameter value space.
 
 ![alt text](./output_images/channel_shift_range.png)
