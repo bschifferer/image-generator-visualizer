@@ -10,9 +10,10 @@ IGV can be easy adopted to show data augmentation for a new dataset.
 
 # ImageDataGenerator
 
-Documentation: https://keras.io/preprocessing/image/
-keras.preprocessing.image.ImageDataGenerator(featurewise_center=False,
-samplewise_center=False,
+Documentation: https://keras.io/preprocessing/image/ <br>
+
+keras.preprocessing.image.ImageDataGenerator(featurewise_center=False,<br>
+samplewise_center=False,<br>
 featurewise_std_normalization=False,
 samplewise_std_normalization=False,
 zca_whitening=False,
